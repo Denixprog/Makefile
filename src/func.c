@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "def.h"
 
 int sum (int a,int b)
