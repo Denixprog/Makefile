@@ -1,4 +1,4 @@
-#ifndef sum
-#define sum
-int sum (int a, int b);
+#ifndef Sum
+#define Sum
+int sum(int a, int b);
 #endif
